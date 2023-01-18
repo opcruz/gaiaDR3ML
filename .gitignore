@@ -1,2 +1,4 @@
 /.ipynb_checkpoints/
 .idea
+/GaiaXpy/output_spectra.csv
+/GaiaXpy/output_spectra_sampling.csv
