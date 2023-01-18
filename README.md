@@ -16,6 +16,7 @@
 - [GaiaXpy](https://gaia-dpci.github.io/GaiaXPy-website/)
 - [Curso de astronomía (Julieta Fierro)](https://www.youtube.com/watch?v=n353mYG8mmw&list=PLiD-IJzweXR-Vbr-HXPB-s3KRxd00OjR_&index=2)
 - [Gaia web page DR3](https://www.cosmos.esa.int/web/gaia/data-release-3)
+- [Gaia Tutorials](https://www.cosmos.esa.int/web/gaia-users/archive/help)
 
 ## Youtube
 
