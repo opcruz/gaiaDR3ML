@@ -215,7 +215,7 @@ def calculate_abs_gaia_magnitude(mag_g, parallax, ext, mag_err=None, parallax_er
 		else:
 			val = (5+mag_g-(5*np.log10(d_pc)))
 			return val
-	except ZeroDivideError:
+	except ZeroDivisionError:
 		return np.nan
 
 
