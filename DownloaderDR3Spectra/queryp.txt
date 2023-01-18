@@ -1,0 +1,13 @@
+#SY |& maintype='Sy*' |& 
+#SY |& maintype='Sy*' & Gmag<30 & Vmag<38 & Bmag<45 & Jmag<35 & Hmag<43 & Kmag<33 |& 
+SecuenciaPrincipal |& maintype='PN' |& 
+#SecuenciaPrincipal |& splum='V' |& 
+#SecuenciaPrincipal |& splum='V' & Gmag<30 & Vmag<38 & Bmag<45 & Jmag<35 & Hmag<43 & Kmag<33 |& 
+#SubGigantes |& splum='IV' & Gmag<30 & Vmag<38 & Bmag<45 & Jmag<35 & Hmag<43 & Kmag<33
+#Gigigantes |& splum='III' & Gmag<30 & Vmag<38 & Bmag<45 & Jmag<35 & Hmag<43 & Kmag<33 |& 
+#SecuenciaPrincipal |& otype='RG*' |& 
+#RedGiantBranch |& maintype='RGB' & maintype!='Sy*' & Gmag<30 & Vmag<38 & Bmag<45 & Jmag<35 & Hmag<43 & Kmag<33 |& 
+#Asymptotic |& maintype='AB*' & Gmag<30 & Vmag<38 & Bmag<45 & Jmag<35 & Hmag<43 & Kmag<33
+#AsymptoticCandidate |& maintype='AB?' & Gmag<30 & Vmag<38 & Bmag<45 & Jmag<35 & Hmag<43 & Kmag<33
+#PNCandidate |& maintype='PN?' & Gmag<30 & Vmag<38 & Bmag<45 & Jmag<35 & Hmag<43 & Kmag<33
+#RedGiantBranchCandidate |& maintype='RB?' & Gmag<30 & Vmag<38 & Bmag<45 & Jmag<35 & Hmag<43 & Kmag<33
