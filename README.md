@@ -11,7 +11,7 @@
 ## Links
 
 - [Gaia Archive](https://gea.esac.esa.int/archive/)
-- [MACHINE L & ESPECTROS](https://itcgedu-my.sharepoint.com/:f:/g/personal/cynthia_mp_cdguzman_tecnm_mx/EqdOd1Rg0uFIoHufsxsBdrMB4k4czg9ae3waDrnTLDDDiQ?e=v6Lr6l)
+- [MACHINE L & ESPECTROS](https://itcgedu-my.sharepoint.com/:f:/g/personal/cynthia_mp_cdguzman_tecnm_mx/EqdOd1Rg0uFIoHufsxsBdrMBI3c7ZeTgTARnLo-uP1DV5w?e=9k2St7)
 - [Simbad Query](https://simbad.cds.unistra.fr/simbad/sim-fsam)
 - [GaiaXpy](https://gaia-dpci.github.io/GaiaXPy-website/)
 - [Curso de astronomía (Julieta Fierro)](https://www.youtube.com/watch?v=n353mYG8mmw&list=PLiD-IJzweXR-Vbr-HXPB-s3KRxd00OjR_&index=2)
