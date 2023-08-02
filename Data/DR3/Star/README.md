@@ -1,0 +1,1 @@
+Solo se descargarán un máximo de 5000 estrellas de la secuencia principal por tipo espectral
